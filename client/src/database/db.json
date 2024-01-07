@@ -1,0 +1,150 @@
+
+{
+    "products" : [
+        {
+            "id": 1,
+            "title": "LAKMÉ 9 TO 5 PRIMER + MATTE PERFECT COVER FOUNDATION",
+            "Shade": "W320 Warm Caramel",
+            "price": "495  ",
+            "description":
+              "Water, Colorants - Iron oxides (CI 77891, CI 77491, CI 77492 and CI 77499), Dimethicone, Cyclopentasiloxane",
+            "price1": "550 ",
+            "image": "image1",
+            "Rate": 4,
+           " amount": 1
+          },
+          {
+            "id": 2,
+            "title": "MARS Trend Setting Loose Powder | Lightweight & Long Lasting ",
+            "Shade": "Beige",
+           " price": "299  ",
+            "price1": "350",
+            "description":
+              "Talc, Mica, Silica, Ethylhexyl Palmitate, Dimethicone, Polybutene,bis-diglyceryl Polyacyladipate-2, Propylparaben, Methylparaben, Bht. [+/- May Contain: Titanium Dioxide (Ci77891) Red Iron Oxide (Ci77491), Yellow Iron Oxide (Ci77492), Black Iron Oxide (Ci77499)",
+            "image": "image2",
+            "Rate": 4.5,
+            "amount": 1
+          },
+          {
+            "id": 3,
+            "title":
+              "Maybelline New York Eyeliner & Kajal, Bold Eye Looks, Long-lasting,",
+            "Shade": "Black",
+            "price": "330  ",
+            "price1": "350",
+            "description": "Colossal INFUSED WITH ALOE VERA, VITAMIN C & E",
+            "image": "image3",
+            "Rate": 5,
+            "amount": 1
+          },
+          {
+            "id": 4,
+            "title": "LAKMÉ EYECONIC KAJAL TWIN PACK",
+            "Shade": "Black",
+            "price": "360  ",
+            "price1": "380",
+            "description":
+              "Presenting the first cooling kajal by Lakme – India’s #1 Makeup Brand. Lakme Eyeconic Insta Cool Kajal, infused with cucumber seed extracts, instantly feels cool and refreshes your eyes. Now you can get cucumber like coolness on your eyes!",
+            "image": "image4",
+            "Rate": 3.5,
+           " amount": 1
+          },
+          {
+            "id": 5,
+            "title": "Lakme Absolute Infinity Eye Shadow Palette (12g)",
+            "Shade": "Coral Sunset",
+            "price": "845  ",
+            "price1": "955",
+            "description": "Magnesium Myristate, Mica, Boron Nitride",
+            "image": "image5",
+            "Rate": 3.5,
+            "amount": 1
+          },
+          {
+            "id": 6,
+            "title":
+              "Lakme Sun Expert, SPF 50 PA+++ Ultra Matte Sunscreen, 100ml, for Sun Protection, with Vitamin B3, C",
+            "Shade": "Spf55",
+            "price": "300  ",
+            "price1": "450",
+            "description":
+              "Aqua,Para Phenylene Diamine,Moneothanolamine,Hydroxypropyl Methyl Cellulose,Resorcinol,L-ascorbic acid,Propylene,Glycol,Pearl extract,Metaminophenol,Butylated Hydroxytoluene,2,4-diaminophenoxyethanol dihydrochloride,Ammonium Laureth Sulphate,Hydrogen Peroxide,Acrylates Copolymer,Cocamidopropyl,Betaine,Cocamide DEA,Salcyclic acid,Perfume",
+            "image": "image6",
+            "Rate": 4,
+            "amount": 1
+          },
+          {
+            "id": 7,
+            "title": "Plum Matte In Heaven Liquid Lipsticks",
+            "Shade": "Ashy Mauve",
+            "price": "399  ",
+            "price1": "500",
+            "description":
+              " Vitamin E .A dream match! Matte finish, smudge-proof yet non-drying – this liquid lipstick is truly made (or matte ??) in heaven! It’s carefully formulated to be lightweight, non-sticky, with a touch of Vitamin E & free from known toxins like talc, parabens and phthalates. As always, it’s 100% vegan & cruelty-free! Pick your faves from a palette of highly pigmented shades, handpicked to suit all Indian skin tones <12",
+            "image": "image7",
+            "Rate": 4.5,
+            "amount": 1
+          },
+          {
+            "id": 8,
+           " title": "Modelones  Gel Nail Polish Palette with Brush 9g",
+            "Shade": "Avocado Glitter Sparkle 9 Colors Solid Gel Polish",
+            "price": "1568  ",
+            "price1": "2450",
+            "description":
+              "9 Shades Color Cube Solid Cream UV Gel Nail Polish Palette 9g - Creamy Squid Ink Pasta",
+            "image": "image8",
+            "Rate": 5,
+            "amount": 1
+          },
+          {
+            "id": 9,
+            "title": "Swiss Beauty Clean & Glow Makeup Remover Wipes",
+            "Shade": "Green Tea And Calendula Extracts",
+            "price": "150  ",
+            "price1": "200",
+            "description":
+              "Talc, Mica, Magnesium Stearate, Ethylhexyl palmitate, Silica, Mineral Oil, Dimethicone, Polybutene, Polyethylene, Methylparaben , Propylparaben ,May contain: CI77491, CI77492.CI77891, CI15850, CI45410, CI19140, CI16035",
+            "image": "image9",
+            "Rate": 4,
+            "amount": 1
+          },
+          {
+            "id": 10,
+            "title": "MARS Pore Cure Primer for Face Makeup ",
+            "Shade": " Smooth Base with Oil Control",
+            "price": "350  ",
+            "price1": "450",
+            "description":
+              "Aqua, Dimethicone /vinyl Dimethicone Crosspolymer, Cyclopentasiloxane, Paraffin, Dimethicone, Talc, Glycerin, Butylene Glycol, Peg-10 Dimethicone, Peg/ppg-18/18 Dimethicone, Sodium Chloride, Disteardimonium Hectorite, Phenoxyethanol, Ethylhexylglycerin, Propylene Carbonate, Tri Ethoxycaprylylsilane May Contain: C177491 (Iron Oxide Red), Ci 77492 (Iron Oxide Yellow).",
+            "image": "image10",
+            "Rate": 5,
+            "amount": 1
+          },
+          {
+            "id": 11,
+            "title": "SUGAR Cosmetics Matte As Hell Crayon Lipstick",
+            "Shade": "Deep Pink",
+            "price": "500  ",
+            "price1": "750",
+            "description":
+              "Isododecane, Dimethicone, Diisostearyl Malate, Synthetic Wax, Distarch Phosphate, Polybutene, Dimethicone/Vinyl Dimethicone Crosspolymer, Caprylyl Methicone, Dimethylimidazolidinone Rice Starch, Glyceryl Caprylate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Silica, Isoceteth - 10 May Contain: CI 77491, 77492, 77499, 77891, 77019.",
+            "image": "image11",
+            "Rate": 4.5,
+            "amount": 1
+          },
+          {
+            "id": 12,
+            "title":
+              "Maybelline New York Mascara,  Waterproof, Lash Sensational, Black, 9ml",
+            "Shade": "Intense Black",
+            "price": "499  ",
+            "price1": "550",
+            "description":
+              "ISODODECANE, CERA ALBA / BEESWAX / CIRE DABEILLE, COPERNICIA CERIFERA CERA / CARNAUBA WAX / CIRE DE ,CARNAUBA, DISTEARDIMONIUM HECTORITE, AQUA / WATER / EAU, ALLYL STEARATE/VA COPOLYMER, ORYZA SATIVA CERA / RICE BRAN WAX, PARAFFIN, ALCOHOL DENAT., POLYVINYL LAURATE, VP/EICOSENE COPOLYMER, PROPYLENE CARBONATE, TALC, ETHYLENEDIAMINE/STEARYL DIMER DILINOLEATE ,COPOLYMER, PEG-30 GLYCERYL STEARATE, PROPYLPARABEN, METHYLPARABEN, HYDROGENATED JOJOBA OIL, SILICA, SOLUBLE COLLAGEN, [+/- MAY CONTAIN / PEUT CONTENIR, CI 77491, CI 77492, CI 77499 / IRON OXIDES, CI 77007 / ULTRAMARINES, CI 77891 / TITANIUM DIOXIDE, MICA, CI 75470 / CARMINE, CI 77288 / CHROMIUM OXIDE GREENS, CI 77742 / MANGANESE VIOLET, CI 77510 / FERRIC FERROCYANIDE, ]",
+            "image": "image12",
+            "Rate": 3.5,
+            "amount": 1
+        }
+      ]
+}

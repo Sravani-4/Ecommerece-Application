@@ -1,0 +1,39 @@
+.outer{
+    display: flex;
+}
+.left{
+   
+}
+.right{
+    margin-left: 50px;
+    max-width: 700px;
+}
+.image{
+    border-radius: 4%;
+    width: 600px;
+    height: 1000px;
+}
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+.description{
+    font-size: larger;
+}
+.rating{
+    width: 500px;
+}
+.buy{
+    height: 40px;
+    width: 350px;
+    margin-left: 160px;
+    background-color: rgb(0, 229, 255);
+    font-size: larger;
+    font-weight: 700;
+}
+.buy:hover{
+    background-color: wheat;
+}
+.shade{
+    font-weight: 600;
+}
